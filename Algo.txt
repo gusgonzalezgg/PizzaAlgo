@@ -1,2 +1,6 @@
 Decide which business to order from
 Decide which type of pizza to order
+Step 1a - Ensure that's the pizza you want
+Step 1b - Make sure you have the money
+Step 2- Place call or go on UberEats
+Step 3- Place order
